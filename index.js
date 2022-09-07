@@ -71,3 +71,38 @@ function by ()
    }
 }
 
+
+function by ()
+{
+   for(i=0 ; i<5 ; i++)
+   {
+    document.write(i+"\t");
+    
+    for(j=1 ; j <i ; j++)
+    {
+        document.write("value of J is"+j+"<br>");
+    }
+   }
+}function by ()
+{
+   for(i=0 ; i<5 ; i++)
+   {
+    document.write(i+"\t");
+    
+    for(j=1 ; j <i ; j++)
+    {
+        document.write("value of J is"+j+"<br>");
+    }
+   }
+}function by ()
+{
+   for(i=0 ; i<5 ; i++)
+   {
+    document.write(i+"\t");
+    
+    for(j=1 ; j <i ; j++)
+    {
+        document.write("value of J is"+j+"<br>");
+    }
+   }
+}
